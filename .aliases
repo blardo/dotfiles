@@ -1,0 +1,4 @@
+alias s="subl"
+alias p="cd ~/code"
+alias gpbs="g pull bellhops staging"
+alias heart='lynx gopher://gopher.meatspac.es'
